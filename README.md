@@ -1,4 +1,4 @@
-##Pasos a seguir
+#Pasos a seguir
 
 ### mkdir express-typescript
 ### cd express-typescript
@@ -12,9 +12,10 @@
 ### npm install ts-node-dev -D
 
 
-# Cuando tenemos varios archivos con difertentes extensiones
-# Typescript prioriza las extensiones de la siguiente manera:
-# '.tsx', '.ts', '.node', '.js', '.json'
+#### Cuando tenemos varios archivos con difertentes extensiones
+### Typescript prioriza las extensiones de la siguiente manera:
+### '.tsx', '.ts', '.node', '.js', '.json'
 
-# npm install ts-standard -D  // linter
-
+### npm install ts-standard -D  // linter
+### para las validaciones es mejor utilizar alguna librería
+### se recomienda express-validator
